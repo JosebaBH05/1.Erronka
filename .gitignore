@@ -1,5 +1,64 @@
+# ================================
 
-Erronka/.vs/Erronka.slnx/FileContentIndex/6121f845-f82d-408f-98fd-35b25ba93883.vsidx
+# C# / .NET / Visual Studio
+
+# ================================
+
+# Visual Studio
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Compilación
+
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code
+
+.vscode/
+
+# JetBrains Rider
+
+.idea/
+
+# NuGet
+
+packages/
+*.nupkg
+*.snupkg
+
+# Logs
+
+*.log
+
+# Test
+
+TestResults/
+*.trx
+
+# Archivos temporales
+
+*.tmp
+*.temp
+*.cache
+
+# Archivos del sistema
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
 # Archivos de Visio
+
 *.vsdx
-Erronka/.vs/Erronka.slnx/FileContentIndex/27a88867-c990-4e51-982e-579bd1645691.vsidx
+
+# Archivos temporales de Office
+
+~$*.docx
+~$*.xlsx
+~$*.pptx
+~$*.vsdx
